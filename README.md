@@ -1,9 +1,23 @@
-
 ## ⚙️⚗️ Sobre mim:
 
-Sou estudante de Engenharia Química, aprendendo Python para engenharia e focado para se tornar um Cientista de Dados.
+- Sou estudante de Engenharia Química, aprendendo Python para engenharia e focado para se tornar um Cientista de Dados.
 
-Chemical Engineering student, learning Python for engineering and focused on becoming a Data Scientist.
+- Chemical Engineering student, learning Python for engineering and focused on becoming a Data Scientist.
+
+
+## 🎓 Formação Acadêmica
+
+<p>
+  <img 
+    align="left" 
+    alt="USJT"
+    title="USJT" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://d1t1vw3l48arnf.cloudfront.net/Logo_USJT_Branco_3bb9b8e4f8.svg"
+  />
+  <span style="font-size:20px; font-weight:bold;">Engenharia Química</span>
+</p>
 
 
 ## 🌐 Social:
